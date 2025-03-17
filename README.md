@@ -96,5 +96,7 @@ Open a pull request against the main branch of the original repository.
 For any questions or feedback, please contact:
 
 Name: Devvrat Singh
+
 Email: singhjadondevvrat@gmail.com
+
 GitHub: devvrat-singh-2002
