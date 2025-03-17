@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project focuses on analyzing the performance of players and teams during the T20 2022 Cricket World Cup. The goal was to generate insights using various Key Performance Indicators (KPIs) such as average runs, sixes and fours scored, strike rate, and more. The final output is an interactive dashboard created in Power BI, which visualizes the processed data to provide a comprehensive view of player and team performances.
+This project focuses on analyzing the performance of players and teams during the T20 Cricket World Cup 2022. The goal was to generate insights from the data scraped from ESPNcricinfo webpage, using various Key Performance Indicators (KPIs) such as average runs, sixes and fours scored, strike rate, and more. The final output is an interactive dashboard created in Power BI, which visualizes the processed data to provide a comprehensive view of player and team performances.
 
 ## Implementation Steps
 
