@@ -77,23 +77,23 @@ Analyzing KPIs: Explore various KPIs such as average runs, strike rate, and boun
 
 Contributions are welcome! Please follow these steps to contribute:
 
-### Fork the Repository:
+#### - Fork the Repository:
 
 Fork the repository to your GitHub account.
 
-### Create a Branch:
+#### - Create a Branch:
 
 Create a new branch for your feature or bug fix:
 '''
 git checkout -b feature/your-feature-name
 '''
-### Commit Your Changes:
+#### - Commit Your Changes:
 
 Commit your changes with a clear and descriptive commit message:
 '''
 git commit -m "Add your commit message here"
 '''
-### Push to the Branch:
+#### - Push to the Branch:
 
 Push your changes to the branch:
 ''' 
